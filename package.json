@@ -1,0 +1,24 @@
+{
+  "name": "simpleweb",
+  "version": "1.0.0",
+  "description": "simple exercise for npm usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stacey39/simpleweb.git"
+  },
+  "author": "stacy39",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stacey39/simpleweb/issues"
+  },
+  "homepage": "https://github.com/Stacey39/simpleweb#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-dev": "^7.0.0",
+    "pug": "^3.0.2"
+  }
+}
